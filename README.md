@@ -20,4 +20,6 @@ pip install seaborn==0.13.2
 ### 2. Viewing and running the code
 After installing the required libraries, you can run Jupyter Notebook to view and run the code.<br>
 
-The training dataset is too large to upload. If you want to use the model, you can download the parameters for HMM (initial, transmission and emission probability, and pinyin states) and load them into the model.
+The training dataset is too large to upload on Github. If you need it, you can download from: https://drive.google.com/file/d/1-_JIgT0ifndIFzgGszDsGraR1p9o2IY3/view?usp=sharing <br>
+
+If you just want to use the model, you can download the parameters for HMM (initial, transmission and emission probability, and pinyin states) and load them into the model.
