@@ -1,2 +1,21 @@
 # A-Chinese-Input-Edit-Method
-This project is for the final exercise in UPF 2024 Spring NLP course.
+
+## Introduction
+This is the final project for 24 Spring NLP in UPF. In this project I trained a model based on HMM to convert pinyin into Chinese characters. 
+
+## Instructions
+### 1. Dependencies
+To implement this work, you need to execute the following command block in the terminal. <br>
+```Bash
+# install libraries for model training
+pip install tqdm == 4.66.2
+
+# install libraries for data processing
+pip install pypinyin == 0.50.0
+
+# install libraries for data visualization
+pip install matplotlib == 3.8.1
+pip install seaborn==0.13.2
+```
+### 2. Viewing and running the code
+After installing the required libraries, you can run Jupyter Notebook to view and run the code.
