@@ -19,3 +19,4 @@ pip install seaborn==0.13.2
 ```
 ### 2. Viewing and running the code
 After installing the required libraries, you can run Jupyter Notebook to view and run the code.
+The training dataset is too large to upload. if you want to use the model, you can download the training result (initial, transmission and emission probability, and pinyin states) and load them into the model.
